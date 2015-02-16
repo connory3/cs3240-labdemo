@@ -1,3 +1,6 @@
 __author__="cdy3xv"
 
-print("hello")
+def greeting(msg) :
+	print(msg)
+
+greeting("hello")
